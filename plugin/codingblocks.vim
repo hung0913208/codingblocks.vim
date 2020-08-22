@@ -40,6 +40,7 @@ class Api(object):
 	"cpp": "cpp",
 	"c": "c",
 	"kt": "kotlin",
+	"kotlin": "kotlin",
 	"java": "java8",
 	"js": "nodejs10"
     }
